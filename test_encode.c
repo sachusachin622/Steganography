@@ -1,8 +1,8 @@
 /**********************************************WELCOME TO STEGANOGRAPHY********************************************************************/
 
 /**************PROGRAM:To implement the steganography for a given image and text file*/
-/***************AUTHOR: ANKEGOWDA JA************************************************/
-/*****************DATE:19-11-2017 MONDAY**********************************************/
+/***************AUTHOR: SACHIN L ************************************************/
+/*****************DATE:19-11-2018 **********************************************/
 
 /*Include all the sub file which contains various all the declaration and some other definations*/
 #include <stdio.h>
